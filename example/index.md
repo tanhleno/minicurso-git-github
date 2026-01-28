@@ -4,8 +4,8 @@
 
 ### O que é Git?
 
-Git é um Software desenvolvido por Linus Torvald para
-auxilia-lo no desenvolvimento do Linux.
+Git é um software desenvolvido por Linus Torvald para
+auxilia-lo no desenvolvimento do Unix.
 
 ### O que é GitHub?
 
