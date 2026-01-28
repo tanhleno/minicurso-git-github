@@ -35,7 +35,9 @@ Basta utilizar o comando `git init`.
 <details>
 <summary><strong>Como é feito no VS Code?</strong></summary>
 
-  - Vá em "Source Control (Ctrl + Shift + G)" na aba lateral esquerda
-  - Clique em "Initialize repository"
+<ul>
+  <li>Vá em "Source Control (Ctrl + Shift + G)" na aba lateral esquerda</li>
+  <li>Clique em "Initialize repository"</li>
+</ul>
 
 </details>
